@@ -22,4 +22,6 @@ vim bundle.yml
 juju bootstrap --constraints tags=juju --bootstrap-constraints tags=controller maas
 
 juju deploy ./bundle.yaml
+
+watch -c juju status --color
 {% endhighlight %}
