@@ -8,7 +8,7 @@ categories:
 # Installing Openstack Victoria with juju
 This assumes you have MAAS and Ubuntu 20.04 already setup and installed
 
-{% highlight bash %}
+{% highlight shell %}
 sudo snap install --classic juju
 sudo snap install --classic charm
 sudo snap install vault
