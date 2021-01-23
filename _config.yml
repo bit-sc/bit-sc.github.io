@@ -1,7 +1,7 @@
-title: 'bit-sc.github.io'
-description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
+title: 'bit.sc'
+description: "A blog for hackers, developers and script kiddies."
 baseurl: "/"
-url: "https://b2a3e8.github.io"
+url: "https://bit.sc"
 
 header_pages:
   - index.md
